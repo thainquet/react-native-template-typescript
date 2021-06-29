@@ -1,0 +1,9 @@
+{
+  "name": "react-native-typescript-boilerplate",
+  "version": "1.0.0",
+  "description": "React Native Template by thainquet",
+  "main": "index.js",
+  "repository": "",
+  "author": "Thai Nguyen",
+  "license": "MIT"
+}
